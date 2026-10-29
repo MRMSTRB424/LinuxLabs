@@ -8,7 +8,7 @@
 
 | Компонент | Версия |
 |---|---|
-| Гипервизор | Oracle VirtualBox 7.2.16 |
+| Гипервизор | Oracle VirtualBox 7.2.22|
 | Гостевая ОС | Debian 13.7.0 «Trixie» (amd64, netinst) |
 | Хост-система | Windows |
 
